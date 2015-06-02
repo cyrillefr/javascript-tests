@@ -1,6 +1,7 @@
 # JavaScript Tests
 
-A suite of JavaScript tests (hopefully) useful for interviews
+A suite of JavaScript tests (hopefully) useful for interviews.
+
 A note from me, Cyrille
 This my modified and added JS files. Protocol to test my files is the same as below(but it will install dependancies).
 
